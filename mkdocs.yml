@@ -52,7 +52,7 @@ nav:
  - Home: index.md
  - Code Docs:
     - Java: coding/my-first-java-file.md
-    - Zoro: Zoro.md
+    - Zoro: codind/Zoro.md
  - About: about.md
  - Tags: tags.md
  - Blog:
