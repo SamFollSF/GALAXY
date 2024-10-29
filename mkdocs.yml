@@ -52,8 +52,7 @@ nav:
  - Home: index.md
  - Code Docs:
     - Java: coding/my-first-java-file.md
- - About:
-    - pappa: Santin/about.md
+ - About: about.md
  - Tags: tags.md
  - Blog:
     - blog/index.md
