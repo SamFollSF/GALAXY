@@ -1,17 +1,22 @@
 site_name: My Docs
 site_url: https://mydomain.org/mysite
 theme:
+  logo: assets/lostesso.png
   name: material
   palette: 
 
     # Palette toggle for light mode
     - scheme: default
+      primary: deep orange
+      accent: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: deep orange
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -50,10 +55,18 @@ markdown_extensions:
 
 nav:
  - Home: index.md
- - Code Docs:
+ - Formazione:
     - Java: coding/my-first-java-file.md
     - Zoro: coding/zoro.md
  - About: about.md
  - Tags: tags.md
  - Blog:
     - blog/index.md
+
+extra:
+  consent:
+    title: Hey! Dove credi di andare?
+    description: >- 
+      Sei un fallito che ha perso moglie, lavoro e amici? non preoccuparti, accettando qui sotto accetterai di
+      vendere la tua anima al diavolo per la cifra di Euro 20, che ti permetterà di fare la tua ultima scommessa
+      al casinò e sperare di riprenderti la tua vita. In caso contrario la SamFollSF.inc non si assume alcuna responsabilità.
