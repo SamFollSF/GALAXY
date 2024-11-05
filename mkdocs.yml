@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: SamFollSF
 site_url: https://mydomain.org/mysite
 theme:
   logo: assets/lostesso.png
@@ -21,6 +21,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.footer
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.preview
@@ -64,6 +65,9 @@ nav:
     - blog/index.md
 
 extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6
   consent:
     title: Hey! Dove credi di andare?
     description: >- 
