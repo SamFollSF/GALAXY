@@ -77,3 +77,9 @@ extra:
       Sei un fallito che ha perso moglie, lavoro e amici? non preoccuparti, accettando qui sotto accetterai di
       vendere la tua anima al diavolo per la cifra di Euro 20, che ti permetterà di fare la tua ultima scommessa
       al casinò e sperare di riprenderti la tua vita. In caso contrario la SamFollSF.inc non si assume alcuna responsabilità.
+
+extra_javascript:
+  - assets/cursor.js
+
+extra_css:
+  - assets/style.css
