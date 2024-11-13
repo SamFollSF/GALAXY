@@ -59,9 +59,10 @@ markdown_extensions:
 
 nav:
  - Home: index.md
- - Formazione:
-    - Java: coding/my-first-java-file.md
-    - Zoro: coding/zoro.md
+ - Documentazione:
+    - Scia: coding/scia.md
+    - Palette: coding/zoro.md
+    - Icone Tastiera: coding/mbs.md
  - About: about.md
  - Tags: tags.md
  - Blog:
