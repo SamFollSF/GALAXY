@@ -6,7 +6,7 @@ Il nostro intento era quello di esplorare questi atti soliti di vandalismo, in q
 
 Abbiamo notato che alcune attività commerciali usano i graffiti per promuoversi o per fare comunicazioni varie (esempio classico: divieto di sosta abusivo). Ma non solo, a Via Umberto sugli spartitraffico sono presenti scritte di bombolette spray che esplorano il tema di cambiamento, in quanto viene solitamente attraversata dai cortei.
 
-Infine è lampante come attività commerciali di scommesse e casinò sono trattate dalla popolazione locale meglio di altre come farmacie e in generale negozi di beni di prima necessità.
+Infine è lampante come attività commerciali di scommesse sportive e casinò sono trattate dalla popolazione locale meglio di altre come farmacie e in generale negozi di beni di prima necessità.
 
 Allego qualche foto:
 
