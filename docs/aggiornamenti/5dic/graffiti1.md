@@ -1,4 +1,4 @@
-# Street Art 5/12
+# Street Art
 
 Nella giornata del 5 Dicembre un gruppo di lavoro è andato a Garibaldi per un giro di perlustrazione per individuare la street art e in generale i graffiti più iconici della zona della piazza.
 
