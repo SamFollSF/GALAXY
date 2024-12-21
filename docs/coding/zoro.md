@@ -1,3 +1,8 @@
+---
+tags:
+    - Coding
+---
+
 ## Come inseire una Palette Colori interattiva
 
 Per inserire una palette interattiva sul proprio sito basta aggiungere al file .md questo codice che vedi di seguito:

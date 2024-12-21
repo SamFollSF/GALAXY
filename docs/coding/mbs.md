@@ -1,3 +1,8 @@
+---
+tags:
+    - Coding
+---
+
 ## Come aggiungere l'icone della tastiera
 
 Per fare questa cosa: <kbd>Ctrl</kbd> + <kbd>C</kbd> è molto semplice.

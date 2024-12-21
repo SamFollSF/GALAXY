@@ -59,7 +59,7 @@ markdown_extensions:
 
 nav:
  - Home: index.md
- - Documentazione:
+ - Coding:
     - Scia: coding/scia.md
     - Palette: coding/zoro.md
     - Icone Tastiera: coding/mbs.md
@@ -67,6 +67,7 @@ nav:
     - aggiornamenti/aggiornamenti.md
     - aggiornamenti/5dic/graffiti1.md
     - aggiornamenti/13dic/13dic.md
+    - aggiornamenti/16dic/16dic.md
  - Tags: tags.md
  - Blog:
     - blog/index.md

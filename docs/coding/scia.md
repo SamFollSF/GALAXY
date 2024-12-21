@@ -1,3 +1,8 @@
+---
+tags:
+    - Coding
+---
+
 ## Come mettere la scia al cursore
 
 Inserire una scia al cursore è molto semplice, ora ti mostrerò come fare.

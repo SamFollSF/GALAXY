@@ -1,3 +1,10 @@
+---
+date: 2024-12-02
+
+tags:
+    - Garibaldi
+---
+
 # Sguardo agli aspetti fondamentali
 
 Nella giornata di Venerdì 13 Dicembre tutto il secondo anno ha discusso in merito alle tematiche e aspetti che abbiamo individuato e che creano in noi l'urgenza di una risposta artistica sul territorio di Piazza di Garibaldi.
