@@ -9,5 +9,17 @@ Per il momento abbiamo un telegram per dividere in zone le immagini che raccogli
 Allego qui delle immagini:
 
 <video width="640" height="360" controls>
-  <source src="../20Gen/pr2.mp4" type="video/mp4">
+  <source src="../pr1.mp4" type="video/mp4">
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../pr2.mp4" type="video/mp4">
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../pr3.mp4" type="video/mp4">
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../pr4.mp4" type="video/mp4">
 </video>
