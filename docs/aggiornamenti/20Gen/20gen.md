@@ -1,3 +1,8 @@
+---
+tags:
+    - Garibaldi
+---
+
 # Riprese in Piazza
 
 Nella giornata di Ieri 20 Gennaio 2025 con il gruppo street art abbiamo fatto delle riprese video e fotografie di Graffiti e Sticker, con la presenza di persone che interagiscono con essi.
